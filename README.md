@@ -1,1 +1,1 @@
-# ocrCapture
+# ocrCapture - Flutter plugin
